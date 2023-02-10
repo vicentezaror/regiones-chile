@@ -1,1 +1,1 @@
-# [Work in progress][JSON] Regiones, ciudades y comunas de Chile
+# [JSON] Regiones, ciudades y comunas de Chile
