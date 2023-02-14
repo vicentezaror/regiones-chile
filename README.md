@@ -1,6 +1,6 @@
-# [JSON] Regiones, ciudades y comunas de Chile
+# [JSON] Regiones, provincias, ciudades y comunas de Chile
 
-Regiones, ciudades y comunas de Chile en formato **JSON**
+Regiones, provincias, ciudades y comunas de Chile en formato **JSON**
 
 ## resumen.json
 
