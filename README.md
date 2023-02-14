@@ -2,7 +2,7 @@
 
 Regiones, ciudades y comunas de Chile en formato **JSON**
 
-## regiones.json
+## resumen.json
 
 Ejemplo del formato del archivo `resumen.json`
 
