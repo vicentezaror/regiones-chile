@@ -1,8 +1,11 @@
 # [JSON] Regiones, ciudades y comunas de Chile
+
 Regiones, ciudades y comunas de Chile en formato **JSON**
 
 ## regiones.json
+
 Ejemplo del formato del archivo `regiones.json`
+
 ```json
 {
   "Región de Arica y Parinacota": {
@@ -11,11 +14,17 @@ Ejemplo del formato del archivo `regiones.json`
     "provincias": {
       "Arica": {
         "capital": "Arica",
-        "comunas": {}
+        "comunas": [
+          "Arica",
+          "Camarones"
+        ]
       },
       "Parinacota": {
         "capital": "Putre",
-        "comunas": {}
+        "comunas": [
+          "General Lagos",
+          "Putre"
+        ]
       }
     },
     "comunas": [
