@@ -1,8 +1,8 @@
-![Imagen portada Chile](https://github.com/vicentezaror/regiones-chile/blob/main/assets/img/chile.jpeg?raw=true)
-
 # [JSON] Regiones, provincias, ciudades y comunas de Chile
 
 Regiones, provincias, ciudades y comunas de Chile en formato **JSON**
+
+![Imagen portada Chile](https://github.com/vicentezaror/regiones-chile/blob/main/assets/img/chile.jpeg?raw=true)
 
 ## resumen.json
 
