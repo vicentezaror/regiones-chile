@@ -37,3 +37,8 @@ Ejemplo del formato del archivo `resumen.json`
 ...
 }
 ```
+
+### Referencias
+* **INE**: https://web.archive.org/web/20190713152439/https://geoarchivos.ine.cl/File/pub/Cd_Pb_Al_Cs_2019.pdf
+* **Wikipedia**: https://es.wikipedia.org/wiki/Anexo:Ciudades_de_Chile
+* **Gobierno de Chile**: https://www.gob.cl/instituciones/#regions
